@@ -52,7 +52,7 @@ Use real-world dataset (Kaggle)
 Deploy using FastAPI
 Add frontend interface
 Improve model accuracy with advanced NLP
-# Author
+## Author
 
 Aditi Verma
 
